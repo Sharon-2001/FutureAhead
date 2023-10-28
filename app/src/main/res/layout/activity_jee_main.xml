@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/card1"
+    tools:context=".User.MostViewedHelperClass.JeeMain">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/jee_main_back_pressed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:onClick="jee_main_back_click"
+                android:padding="15dp"
+                android:src="@drawable/general_back_icon" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:padding="10dp"
+            android:text="@string/jee_main"
+            android:textColor="@color/colorAccent"
+            android:textSize="30sp"
+            tools:ignore="UnknownId" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp">
+
+            <TextView
+                android:id="@+id/jee_main_long_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/jee_main_long"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/jee_main_button_id"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_below="@+id/jee_main_long_id"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@color/lavender"
+                android:onClick="jee_main_register"
+                android:text="@string/jee_click"
+                android:textSize="18sp"
+                app:cornerRadius="20dp" />
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

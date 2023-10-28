@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/menu_dashboard_icon"
+            android:id="@+id/nav_home"
+            android:title="@string/home" />
+        <item
+            android:icon="@drawable/add_data"
+            android:id="@+id/nav_add_missing_place"
+            android:title="@string/add_exam" />
+
+    </group>
+
+    <item android:title="@string/nav_profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/menu_login_icon"
+                    android:id="@+id/nav_login"
+                    android:title="@string/nav_login" />
+                <item
+                    android:icon="@drawable/menu_logout_icon"
+                    android:id="@+id/nav_logout"
+                    android:title="@string/nav_logout" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

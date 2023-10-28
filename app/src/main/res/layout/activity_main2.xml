@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".LocationOwner.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="345dp"
+            android:src="@drawable/make_choice"/>
+
+
+        <Spinner
+            android:id="@+id/spinner_status"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginTop="30dp"
+            android:entries="@array/status"
+            android:hint="Select your educational status" />
+
+
+        <Spinner
+            android:id="@+id/spnInterestedField"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginTop="30dp"
+            android:entries="@array/interested_fields"
+            android:hint="Select your interested field" />
+
+
+
+        <Button
+            android:id="@+id/btnGenerateRecommendations"
+            android:layout_width="333dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@color/card1"
+            android:gravity="center"
+            android:text="Generate Recommendations"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtRecommendations"
+            android:layout_width="match_parent"
+            android:layout_height="264dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/colorAccent"
+            android:textSize="17sp" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,174 @@
+<resources>
+
+
+    <string name="app_name">FutureAhead</string>
+    <string name="logo_name">FutureAhead</string>
+    <string name="slogan_name">  We will help you find your FUTURE! </string>
+
+
+    <!-- String for on Boarding Screen-->
+
+    <!--Titles-->
+    <string name="first_slide">Search for your Exams</string>
+    <string name="second_slide">Look for your Future </string>
+    <string name="third_slide">Make your Choice</string>
+    <string name="fourth_slide">Register your Exams</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Get started by finding your desired exams with ease using our app search.</string>
+    <string name="second_slide_desc">Explore the possibilities and plan ahead for a successful future with our app.</string>
+    <string name="third_slide_desc">Make your choice among the exams that will help secure your future. </string>
+    <string name="fourth_slide_desc">Do online registration for your chosen Future exam.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <string name="engineering">Engineering</string>
+    <string name="medical">Medical</string>
+    <string name="defence">Defence</string>
+    <string name="business">Business</string>
+    <string name="banking">Banking</string>
+    <string name="government">Government</string>
+
+    <string name="most_viewed">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="features">How to do</string>
+    <string name="features_descriptions">A brief overview of how to use the app</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+    <string name="jee_main">Joint Entrance Exam (JEE)</string>
+    <string name="neet_exam">National Eligibility cum Entrance Test (NEET)</string>
+    <string name="gate_exam">Graduate Aptitude Test in Engineering (GATE)</string>
+    <string name="upsc_exam">Union Public Service Commission (UPSC)</string>
+    <string name="cat_exam">Common Admission Test (CAT)</string>
+    <string name="ssc_exam">Staff Selection Commission (SSC)</string>
+    <string name="ibps_exam">Institute of Banking Personnel Selection (IBPS)</string>
+
+    <string name="jee_main_desc">Entrance exam for admission to undergraduate engineering and architecture programs. </string>
+    <string name="neet_exam_desc">Medical entrance exam for admission to undergraduate medical and dental courses. </string>
+    <string name="gate_exam_desc">Exam for admission to postgraduate engineering courses and various public sector undertakings. </string>
+    <string name="upsc_desc">Highly prestigious exam for selection to various administrative services. </string>
+    <string name="cat_exam_desc"> Management entrance exam for admission to various postgraduate management programs.</string>
+    <string name="ssc_exam_desc">Exam for recruitment to various non-technical Group B and Group C posts in government departments and ministries.</string>
+    <string name="ibps_exam_desc">Exam for recruitment to various clerical, probationary officer, and specialist officer positions in public sector banks.</string>
+
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_exam">FIND EXAM</string>
+
+    <string name="nav_login">Login</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+    <string name="expand_all">EXPAND ALL</string>
+
+    <string name="retailer_heading">FIND YOUR FUTURE</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="how_we_work">HOW WE WORK</string>
+
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_email">E-Mail</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="select_age">Select Your Age</string>
+    <string name="interest"> Your Interest</string>
+    <string name="education_status">Educational Status</string>
+
+    <string name="otp_code">Co\nde</string>
+    <string name="otp_verification_test">Verification</string>
+    <string name="otp_description">Enter one time password</string>
+    <string name="verify_code">Verify code</string>
+
+    <string name="forget_password_detail">Provide your Accounts Phone number for which you want to reset your Password</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your Password</string>
+    <string name="make_selection">Make Selection</string>
+    <string name="via_sms">Via SMS</string>
+    <string name="via_mail">Via Mail</string>
+
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_details">Your Identity has been Verified!Set your New Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="ok">Update</string>
+    <string name="password_updated">Password Updated</string>
+    <string name="success_message">Your Password has been Updated</string>
+
+    <string name="expand">EXPAND</string>
+
+    <string name="jee_main_long">The   JEE   Main  exam   is    one  of  the   most    prestigious   and   highly  competitive  examinations  conducted  in  India. It   serves  as  a  gateway  for  admission  into various undergraduate engineering   programs  in  renowned  institutions   across  the  country.
+         JEE   Main   is   applicable   for   admission   to    NITs,    IIITs    and    CFTIs  participating  though Central   Seat   Allocation  Board  subject  to  the  condition that  the  candidate   should  have   secured  at   least  75%  marks in   the    12th  class   examination,  or   be  in  the  top  20  percentile  in  the   12th   class   examination  conducted  by  the  respective Boards.For SC/ST candidates the qualifying marks would be 65% in the 12th class examination.</string>
+    <string name="jee_click">
+        <a href="https://jeemain.nta.nic.in/">JEE MAIN Register</a>
+    </string>
+
+
+    <string name="neet_exam_long">The National Eligibility cum Entrance Test (NEET) is an all-India medical entrance examination conducted by the National Testing Agency (NTA).
+    NEET scores are accepted by both government and private medical colleges, making it the single entrance test for undergraduate medical courses in India.To be eligible for the NEET exam, candidates must fulfill certain criteria. They should be Indian nationals or Overseas Citizens of India (OCI) and must have completed 17 years of age at the time of admission or will complete the age on or before December 31 of the admission year. Additionally, students must have passed their 10+2 or equivalent examination with Physics, Chemistry, Biology/Biotechnology, and English as core subjects. It is conducted once a year, and the duration of the exam is three hours.</string>
+    <string name="neet_click">
+        <a href="https://neet.nta.nic.in/">NEET EXAM Register</a>
+    </string>
+
+
+    <string name="gate_exam_long">The Graduate Aptitude Test in Engineering (GATE) is a prestigious examination conducted in India for assessing the aptitude and subject knowledge of engineering and science graduates. The exam covers a wide range of subjects, including mechanical engineering, computer science, electrical engineering, civil engineering, and more.Generally, applicants should possess a bachelors degree in engineering, science, or a related field from a recognized university or institute. Final-year students are also eligible to apply.The scores obtained in GATE are not only used for admissions to postgraduate programs in renowned institutions but are also considered by many public sector companies for recruitment purposes. A good GATE score can open doors to numerous opportunities, including scholarships, fellowships, research positions, and job prospects in both the private and public sectors.  </string>
+    <string name="gate_click">
+        <a href="https://gate.iitk.ac.in/eligibility_criteria.html">GATE EXAM Register</a>
+    </string>
+
+
+    <string name="upsc_exam_long">The UPSC (Union Public Service Commission) exam is a highly competitive and prestigious examination conducted in India.To be eligible for the UPSC exam, candidates must meet certain criteria. They should be Indian citizens or belong to specific categories such as PIO (Persons of Indian Origin) or OCI (Overseas Citizen of India). The age limit varies depending on the category, with general candidates having an upper age limit of 32 years. There are relaxations in the age limit for reserved category candidates.The UPSC exam consists of three stages: the Preliminary Examination (Objective type), the Main Examination (Written and Descriptive type), and the Personality Test (Interview). The Preliminary Examination tests the candidates knowledge in subjects like General Studies, Current Affairs, and Aptitude. The Main Examination evaluates their understanding and analysis of various subjects, including essay writing, optional subjects, and general studies. Finally, the Personality Test assesses the candidates suitability for administrative positions, focusing on their communication skills, leadership qualities, and overall personality.Successful candidates who clear all stages of the UPSC exam are placed in various civil services, such as the Indian Administrative Service (IAS), Indian Foreign Service (IFS), Indian Police Service (IPS), and others. </string>
+    <string name="upsc_click">
+        <a href="https://upsc.gov.in/">UPSC EXAM Register</a>
+    </string>
+
+
+    <string name="cat_exam_long">The Common Admission Test (CAT) is a highly competitive and widely recognized entrance exam conducted in India for admission into prestigious management programs offered by the Indian Institutes of Management (IIMs) and other renowned business schools. CAT is designed to evaluate a candidates aptitude, problem-solving skills, critical thinking ability, and overall suitability for a career in management.The eligibility criteria for appearing in the CAT exam include a bachelors degree from a recognized university or institution with a minimum aggregate score specified by the respective IIMs. The minimum aggregate score requirement varies for different categories of candidates. Final-year students awaiting their results are also eligible to apply.exam consists of multiple-choice questions and is divided into three sections: Verbal Ability and Reading Comprehension (VARC), Data Interpretation and Logical Reasoning (DI and LR), and Quantitative Ability (QA). Candidates are tested on their proficiency in English language, data interpretation skills, logical reasoning abilities, and mathematical aptitude.The CAT score is a crucial factor in the selection process of various management programs. It is used by IIMs and other participating institutions to shortlist candidates for further rounds, such as group discussions, written ability tests, and personal interviews.</string>
+    <string name="cat_click">
+        <a href="https://iimcat.ac.in/per/g01/pub/756/ASM/WebPortal/1/index.html?756@@1@@1">CAT EXAM Register</a>
+    </string>
+
+    <string name="ssc_exam_long">The Staff Selection Commission (SSC) is a prestigious organization in India that conducts various examinations for recruitment to government jobs.candidates must be Indian citizens and possess a bachelors degree from a recognized university. However, some exams may have additional criteria, such as specific age limits or educational qualifications for certain positions. The commission also provides age relaxations and reservation benefits for candidates from specific categories, ensuring equal opportunities for all.The examination pattern usually consists of multiple-choice questions, descriptive papers, and skill tests, depending on the nature of the position. Candidates are required to undergo a rigorous selection process, including a preliminary examination, mains examination, and sometimes interviews or physical fitness tests.Successful candidates in SSC exams are eligible for employment in various government departments, such as central ministries, defense organizations, public sector undertakings, and other administrative bodies. The positions available through SSC exams range from clerical roles to officer-level posts, providing diverse career options for aspirants from different educational backgrounds.</string>
+    <string name="ssc_click">
+        <a href="https://ssc.nic.in/">SSC EXAM Register</a>
+    </string>
+
+    <string name="ibps_exam_long">IBPS (Institute of Banking Personnel Selection) is an autonomous body that conducts competitive exams for the recruitment of personnel in various public sector banks in India.These exams evaluate the candidates knowledge, aptitude, and skills in areas such as reasoning, quantitative aptitude, English language proficiency, and general awareness. Additionally, depending on the position, specialized subjects like computer knowledge or financial awareness may also be included.A candidate should be a citizen of India or fulfill the specified nationality requirements. The age limit varies for different positions, and candidates must possess a minimum educational qualification, usually a bachelors degree from a recognized university.Candidates are required to apply online for the IBPS exams within the specified time frame and follow the prescribed application procedure. The selection process typically consists of multiple stages, including a preliminary examination, a mains examination, and an interview or group discussion round. The final selection is based on the candidates performance in these stages, subject to meeting the cutoff scores and fulfilling the eligibility criteria. </string>
+    <string name="ibps_click">
+        <a href="https://www.ibps.in/">IBPS EXAM Register</a>
+    </string>
+
+
+    <string-array name="interested_fields">
+        <item>Engineering</item>
+        <item>Medical</item>
+        <item>Defence</item>
+        <item>Business</item>
+        <item>Banking</item>
+        <item>Government</item>
+        <!-- Add more items for different fields as needed -->
+    </string-array>
+
+    <string-array name="status">
+        <item>12th</item>
+        <item>B tech</item>
+        <item>M tech</item>
+        <item>Degree</item>
+        <item>Nursing</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/mv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="sans-serif-black"
+            android:lineHeight="20dp"
+            android:textColor="@color/colorAccent"
+            android:text="@string/jee_main"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/mv_desc"
+            android:layout_width="290dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/mv_title"
+            android:layout_marginTop="3dp"
+            android:fontFamily="cursive"
+            android:padding="10dp"
+            android:textColor="@color/colorAccent"
+            android:text="@string/jee_main_desc"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

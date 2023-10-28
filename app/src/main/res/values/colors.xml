@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff </color>
+    <color name="colorPrimaryDark">#ff355e</color>
+    <color name="colorAccent">#000</color>
+
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#d7adcc</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+    <color name="lavender">#8692f7</color>
+
+    <color name="transparent">#00000000</color>
+
+    <style name="navigationTheme">
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/card1</item>
+    </style>
+
+
+</resources>
